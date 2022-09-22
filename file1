@@ -30,3 +30,7 @@ func sub(){
   return a-b;
   }
 
+
+  func mult(){
+	return a*b;
+  }
