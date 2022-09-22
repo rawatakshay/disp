@@ -18,3 +18,8 @@ function4
 
 function 6
 function 7
+
+
+func sub(){
+  return a-b;
+  }
