@@ -16,10 +16,21 @@ function3
 function4
 
 
+
 function 6
 function 7
 
 
+
+func add(){
+	return a+b;
+}
+
 func sub(){
   return a-b;
+  }
+
+
+  func mult(){
+	return a*b;
   }
