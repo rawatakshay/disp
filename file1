@@ -21,6 +21,12 @@ function 6
 function 7
 
 
+
 func add(){
 	return a+b;
 }
+
+func sub(){
+  return a-b;
+  }
+
